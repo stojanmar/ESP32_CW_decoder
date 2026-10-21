@@ -18,7 +18,8 @@ How to use: Just place it near your radio speaker, adjust the volume and tune pi
 
 <img width="346" height="224" alt="markers" src="https://github.com/user-attachments/assets/c79daf94-95c0-407c-9444-5840868c336d" />
 
-YouTube video link:
+YouTube video link: https://youtu.be/6etblruvxLw
+
 My thanks here to Jonathan P Dawson and his SSTV library, which made this project possible.
 
 Licence: Apache License 2.0
